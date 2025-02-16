@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\",
+  "WorkspaceRootPath": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\webapplicationed\\webapplicationed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|solutionrelative:webapplicationed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\webapplicationed\\webapplicationed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|solutionrelative:webapplicationed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\webapplicationed\\webapplicationed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|solutionrelative:webapplicationed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\webapplicationed\\webapplicationed\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\educationaspnetcore\\webapplicationed\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|solutionrelative:webapplicationed\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\webapplicationed\\webapplicationed\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\educationaspnetcore\\webapplicationed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|solutionrelative:webapplicationed\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\educationaspnetcore\\webapplicationed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|solutionrelative:webapplicationed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\educationaspnetcore\\webapplicationed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|solutionrelative:webapplicationed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|c:\\1\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\educationaspnetcore\\webapplicationed\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65C9655C-C233-4003-A1E5-0412F515641F}|WebApplicationED\\WebApplicationED.csproj|solutionrelative:webapplicationed\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,7 +40,7 @@
         },
         {
           "DockedHeight": 538,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,37 +48,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\Program.cs",
+              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationED\\Program.cs",
-              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\Program.cs",
+              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\Program.cs",
               "RelativeToolTip": "WebApplicationED\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T08:34:17.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T08:34:17.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationED\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationED\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T08:29:13.783Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplicationED\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplicationED\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T08:29:13.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\appsettings.json",
+              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplicationED\\appsettings.json",
-              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\appsettings.json",
+              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\appsettings.json",
               "RelativeToolTip": "WebApplicationED\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -87,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationED\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplicationED\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-16T08:23:24.427Z",
               "EditorCaption": ""
@@ -102,14 +100,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "WebApplicationED\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\WebApplicationED\\WebApplicationED\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\1\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\work1\\EducationAspNetCore\\WebApplicationED\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "WebApplicationED\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T08:22:29.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T08:22:29.196Z"
             }
           ]
         },
