@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\1Программирование\\work1\\WebApplicationED\\WebApplicationED\\WebApplicationED.csproj": {}
+    "C:\\1Программирование\\work1\\EducationAspNetCore\\WebApplicationED\\WebApplicationED.csproj": {}
   },
   "projects": {
-    "C:\\1Программирование\\work1\\WebApplicationED\\WebApplicationED\\WebApplicationED.csproj": {
+    "C:\\1Программирование\\work1\\EducationAspNetCore\\WebApplicationED\\WebApplicationED.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1Программирование\\work1\\WebApplicationED\\WebApplicationED\\WebApplicationED.csproj",
+        "projectUniqueName": "C:\\1Программирование\\work1\\EducationAspNetCore\\WebApplicationED\\WebApplicationED.csproj",
         "projectName": "WebApplicationED",
-        "projectPath": "C:\\1Программирование\\work1\\WebApplicationED\\WebApplicationED\\WebApplicationED.csproj",
+        "projectPath": "C:\\1Программирование\\work1\\EducationAspNetCore\\WebApplicationED\\WebApplicationED.csproj",
         "packagesPath": "C:\\Users\\AORUS\\.nuget\\packages\\",
-        "outputPath": "C:\\1Программирование\\work1\\WebApplicationED\\WebApplicationED\\obj\\",
+        "outputPath": "C:\\1Программирование\\work1\\EducationAspNetCore\\WebApplicationED\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
